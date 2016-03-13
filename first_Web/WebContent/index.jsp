@@ -17,5 +17,6 @@ I want to test
 I want to test once more
 I just want to test again
 test for push
+test for pull
 </body>
 </html>
